@@ -1,0 +1,14 @@
+23 Manchester 510746 1200
+23 Manchester 510746 1200
+58 Oanchester 510746 1200
+124 Panchester 510746 1200
+6 Arta 43166 5
+45 volos 118707 49
+55 iwannina 65574 100
+222 katerinh 55997 49
+24 kalamata 54100 35
+22 xania 53910 109
+21 tripoli 30866 48
+35 sparti 18926 48
+48 pylos 2345 2
+20 walton on Thames 100000 300
